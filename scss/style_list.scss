@@ -1,0 +1,20 @@
+@import "compass";
+@import "compass/reset";
+
+div#container{
+  margin: 80px auto;
+  width: 300px;
+
+  h4{
+    width: 200px;
+    margin-bottom: 12px;
+  }
+  table{
+    tr{
+      padding-top: 10px;
+      td{
+        padding: 5px 5px;
+      }
+    }
+  }
+}
